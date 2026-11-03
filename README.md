@@ -39,9 +39,9 @@ I also have an appreciation for linguistics, theology, and literature, which I e
 &nbsp;  
 <h1 align="center">GitHub Stats</h1>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=isabella738&langs_count=3&theme=bear"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=isabella738&langs_count=3&theme=dark_github"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api?username=isabella738&rank_icon=github&show_icons=true&include_all_commits=true&theme=bear" />
+  <img src="https://github-stats-extended.vercel.app/api?username=isabella738&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github" />
 </p>
 
 <div align="center">
